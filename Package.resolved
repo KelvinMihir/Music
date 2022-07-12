@@ -21,10 +21,10 @@
       },
       {
         "package": "Structure",
-        "repositoryURL": "https://github.com/dn-m/Structure",
+        "repositoryURL": "https://github.com/KelvinMihir/Structure",
         "state": {
           "branch": null,
-          "revision": "34b09ec3d34648a5f409457b7c7ee7bab6ca78bd",
+          "revision": "b4f6cabfcdfbe837a2f086903f15154201aaa7b2",
           "version": "0.25.0"
         }
       }
